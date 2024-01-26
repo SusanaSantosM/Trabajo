@@ -4,7 +4,7 @@ public class Main {
     // IntelliJ IDEA suggests fixing it.
     System.out.printf("Hello and welcome!");
 
-
+      //Iniciamos
     }
   }
 }
